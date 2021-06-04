@@ -7,6 +7,6 @@ Data Science peaks my interest and I love to work with data through the intersec
 - 🌱 I’m currently learning ML, Python, and Statistics
 - 👯 I’m looking to collaborate on Data Analytics projects and research
 - 📫 shreesh29 at g dot ucla dot edu
-- - :octocat: Spirit Animal: :bear:
+-:octocat: Spirit Animal: :bear:
 - 😄 Pronouns: He/Him/His
 
